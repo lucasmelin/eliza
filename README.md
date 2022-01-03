@@ -16,9 +16,6 @@ With [poetry](https://python-poetry.org/) installed:
 poetry install
 poetry shell
 
-# Lint a file
-past file_you_want_to_lint.py
-
-# Run the unit tests
-pytest -vvv
+# Talk with Eliza
+eliza
 ```
