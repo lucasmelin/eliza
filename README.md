@@ -2,7 +2,7 @@
 
 ![eliza](eliza.jpg)
 
-A clone of Joseph Weizenbaum's [ELIZA](https://en.wikipedia.org/wiki/ELIZA), one of the first natural language processing computer progams.
+A clone of Joseph Weizenbaum's [ELIZA](https://en.wikipedia.org/wiki/ELIZA), one of the first natural language processing computer programs.
 
 # Demo
 
